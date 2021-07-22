@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open source organisations**
 
-- 🤝 I’m looking for help with **C and Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/harshit-dugar](https://github.com/harshit-dugar)
 
 - 📫 How to reach me **dugar87711@gmail.com**
