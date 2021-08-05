@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Harshit Dugar</h1>
-<h3 align="center">A computer science enthusiast and keen to learn .Open source contributor , knows C/C++,Development .</h3>
+<h3 align="center">A computer science enthusiast and keen to learn .Open source contributor , knows C,C++, MERN Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-dugar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-dugar" /> </p>
 
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Javaskript frameworks /DataStructures Algorithm**
 
 - 👯 I’m looking to collaborate on **Open source organisations**
+- I write technical blogs ar [Dev.to](https://dev.to/harshitdugar)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit-dugar](https://github.com/harshit-dugar)
 
