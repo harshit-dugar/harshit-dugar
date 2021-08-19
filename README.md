@@ -17,7 +17,7 @@
 - 📫 How to reach me **dugar87711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/harshit_code" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="harshit_code" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-dugar" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="harshit-dugar" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitjain_04" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="harshitjain_04" height="30" width="40" /></a>
