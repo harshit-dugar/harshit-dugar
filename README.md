@@ -21,11 +21,8 @@
 <a href="https://twitter.com/harshit_code" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="harshit_code" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-dugar" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="harshit-dugar" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitjain_04" target="blank"><img align="center" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="harshitjain_04" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshit_21" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" alt="harshit_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="harshitd" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harshitdugar" target="blank"><img align="center" src="https://jobs4fresher.com/wp-content/uploads/2020/04/hackerearth.png" alt="@harshitdugar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<harshit21>" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="harshit21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
