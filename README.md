@@ -10,14 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshit_code" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_code?logo=twitter&style=for-the-badge" alt="harshit_code" /></a> </p>
 
-- 🌱 I’m currently learning **Javaskript frameworks /DataStructures Algorithm**
+-  I’m currently learning **Javaskript frameworks /DataStructures Algorithm**
 
-- 👯 I’m looking to collaborate on **Open source organisations**
-- I write technical blogs at [Dev.to](https://dev.to/harshitdugar)
+-  I’m looking to collaborate on **Open source organisations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshit-dugar](https://github.com/harshit-dugar)
+-  All of my projects are available at [https://github.com/harshit-dugar](https://github.com/harshit-dugar)
 
-- 📫 How to reach me **dugar87711@gmail.com**
+-  How to reach me **dugar87711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -33,9 +32,11 @@
 <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=harshit-dugar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=harshit-dugar&theme=tokyo-night&layout=compact&title_color=7A7ADB&hide_border=true&area=true)
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-dugar&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3" alt="harshit-dugar" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-dugar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harshit's Github Stats"></p>
+
+![Harshit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit-dugar&theme=buefy-dark)
