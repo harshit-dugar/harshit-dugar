@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, It's Harshit Dugar</h1>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
 <h3 align="center">A computer science enthusiast , Open source contributor , knows C++, MERN Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-dugar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-dugar" /> </p>
@@ -33,8 +36,6 @@
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=harshit-dugar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-dugar&show_icons=true&locale=en&layout=compact" alt="harshit-dugar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-dugar&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3" alt="harshit-dugar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-dugar&show_icons=true&locale=en" alt="harshit-dugar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-dugar&" alt="harshit-dugar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-dugar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harshit's Github Stats"></p>
