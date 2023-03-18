@@ -2,20 +2,20 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<h3 align="center">A computer science enthusiast , Open source contributor , knows C++, MERN Developer </h3>
+<h3 align="center">A computer science enthusiast | web3 | Java | C++ | Web Developer (MERN stack) | Freelancer | web3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-dugar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-dugar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-dugar" alt="harshit-dugar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/harshit_code" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_code?logo=twitter&style=for-the-badge" alt="harshit_code" /></a> </p>
 
--  I’m currently learning **Javaskript frameworks /DataStructures Algorithm**
+-  A full stack developer with projects based on react, node,js
 
--  I’m looking to collaborate on **Open source organisations**
+-  I’m looking to collaborate or work on web development projects based gigs
 
--  All of my projects are available at [https://github.com/harshit-dugar](https://github.com/harshit-dugar)
+-  As a programming language I have a good knowledge on C++ and Java.
 
+-  Have a community DevDisect for like minded web developers and experienced developers to spread their knowledge for free.
+     community link -- **https://discord.gg/CF9gcA684s**
 -  How to reach me **dugar87711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
