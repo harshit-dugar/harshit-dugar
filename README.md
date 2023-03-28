@@ -1,5 +1,5 @@
 # 💫 About Me:
-A full stack developer with projects based on react, node,js<br><br>I’m looking to collaborate or work on web development projects based on gigs<br><br>As a programming language, I have good knowledge of C++ and Java.
+A full stack developer with projects based on react, node.js<br><br>I’m looking to collaborate or work on web development projects based on gigs<br><br>As a programming language, I have good knowledge of C++ and Java.
 
 
 ## 🌐 Socials:
